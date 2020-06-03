@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 some content
-
-Update Git-Kraken1
+some content
+=======
